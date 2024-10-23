@@ -1,16 +1,5 @@
 ## Hi there 👋
 
-<!--
-**rindrahh/rindrahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Digital marketing
-- 👯 I’m looking to collaborate on new project
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm rindrahh, I'm a new learner on Sayna Academy, I'm a freelancer and I would like to become a specialist on Digital marketing. Becoming a Community Manager and 
+and a SEO specialist is my goal. As soon as I complete my training, I would like to collaborate with Sayna and becaume a worker.
+📫 How to reach me: rindrahoravaka@gmail.com
